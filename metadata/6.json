@@ -1,0 +1,12 @@
+{
+  "name": "Martian Sentinel Zeta",
+  "description": "Astronaut with a dynamically color-changing suit, sleek helmet with AI assistant on the visor, holding a plasma blaster, set against a backdrop of an advanced Martian city.",
+  "image": "ipfs://QmaiAm7WfKZRa4jjiERDZ9z1GqQeic2qSC14paUkhJHtWj/6.png",
+  "attributes": {
+    "Suit Feature": "Color-Changing",
+    "Helmet Type": "Sleek with AI Assistant",
+    "Weapon": "Plasma Blaster",
+    "Location": "Mars",
+    "Cityscape": "Advanced Martian City"
+  }
+}

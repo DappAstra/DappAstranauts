@@ -1,0 +1,12 @@
+{
+  "name": "Galactic Voyager Alpha",
+  "description": "A futuristic astronaut equipped with high-tech armor, neon accents, and an advanced jetpack, standing on a rocky alien terrain.",
+  "image": "ipfs://QmaiAm7WfKZRa4jjiERDZ9z1GqQeic2qSC14paUkhJHtWj/1.png",
+  "attributes": {
+    "Suit Color": "Metallic Silver",
+    "Accents": "Electric Blue",
+    "Helmet Type": "Sleek with Digital Visor",
+    "Location": "Alien Terrain",
+    "Special Equipment": "Advanced Jetpack"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Cosmic Chameleon Zeta",
+  "description": "This astronaut features an adaptive camouflage suit blending with a cosmic background, a minimalist helmet with a panoramic visor, standing on a comet.",
+  "image": "ipfs://QmaiAm7WfKZRa4jjiERDZ9z1GqQeic2qSC14paUkhJHtWj/10.png",
+  "attributes": {
+    "Suit Style": "Adaptive Camouflage",
+    "Helmet": "Minimalist with Panoramic Visor",
+    "Location": "On a Comet",
+    "Background": "Stars and Galaxies",
+    "Additional": "Trail of Ice Particles"
+  }
+}

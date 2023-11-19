@@ -1,0 +1,12 @@
+{
+  "name": "Lunar Explorer Epsilon",
+  "description": "A futuristic astronaut in a titanium-colored suit with green glowing lines, featuring a data-stream visor and an anti-gravity belt, standing on a lunar landscape with Earth in the background.",
+  "image": "ipfs://QmaiAm7WfKZRa4jjiERDZ9z1GqQeic2qSC14paUkhJHtWj/5.png",
+  "attributes": {
+    "Suit Color": "Titanium with Green Glowing Lines",
+    "Helmet Feature": "Data-Stream Visor",
+    "Technology": "Anti-Gravity Belt",
+    "Location": "Lunar Landscape",
+    "Celestial View": "Earth Visible"
+  }
+}

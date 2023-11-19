@@ -1,0 +1,12 @@
+{
+  "name": "Nebula Sentinel Gamma",
+  "description": "A futuristic astronaut in a sleek black suit with red LED trim, featuring a multi-lens helmet and robotic arms, positioned in a space station with a nebula view.",
+  "image": "ipfs://QmaiAm7WfKZRa4jjiERDZ9z1GqQeic2qSC14paUkhJHtWj/3.png",
+  "attributes": {
+    "Suit Color": "Black with Red LED Trim",
+    "Helmet Type": "Multi-Lens",
+    "Arms": "Robotic",
+    "Location": "Space Station",
+    "Backdrop": "Nebula View"
+  }
+}

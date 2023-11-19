@@ -1,0 +1,12 @@
+{
+  "name": "Subterranean Explorer Theta",
+  "description": "This astronaut sports a suit with cybernetic enhancements and an AR interface helmet, wielding a laser mining tool in an alien cave with bioluminescent plants.",
+  "image": "ipfs://QmaiAm7WfKZRa4jjiERDZ9z1GqQeic2qSC14paUkhJHtWj/8.png",
+  "attributes": {
+    "Suit Enhancements": "Cybernetic",
+    "Helmet Type": "Augmented Reality Interface",
+    "Tool": "Laser Mining",
+    "Environment": "Subterranean Alien Cave",
+    "Natural Features": "Bioluminescent Plants"
+  }
+}
